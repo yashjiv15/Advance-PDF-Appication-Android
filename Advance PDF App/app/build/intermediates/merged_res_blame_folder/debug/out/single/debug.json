@@ -1,0 +1,1146 @@
+[
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_baseline_enhanced_encryption_24.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\baseline_enhanced_encryption_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_remove_pages.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_remove_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_cross_process.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\cross_process.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_rotate_page.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_rotate_page.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\raw_no_permissions.json.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\raw\\no_permissions.json"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_create_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_create_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_hammenu.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_hammenu.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_preview.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_wordto_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_wordto_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_color_fill.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_color_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_sepia.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\sepia.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_black.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_office.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\office.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_fill_light.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\fill_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_rotate_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_rotate_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_temp.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_merge_files.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_merge_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_vignette.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_grain.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\grain.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_call_split_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_call_split_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_check_box_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_check_box_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_text_to_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_text_to_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_images_to_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_images_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_excelto_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_excelto_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_tint.gif.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\tint.gif"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_menu_favourites.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\menu_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_remove_pages.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_remove_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_none.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\none.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_border_image.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_border_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_fill_light.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\fill_light.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_brush_color_item.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\brush_color_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_saturate.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\saturate.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_check_box_outline_blank_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_check_box_outline_blank_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_image_scale_type.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_image_scale_type.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_unlock.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_unlock.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_theme_value.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_theme_value.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_recent_used.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_recent_used.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_image_size.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_image_size.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_extrace_images.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_extrace_images.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_barcode.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_pdf_to_image.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_pdf_to_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_qrcode_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_qrcode_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_home_linearlayout_topcorner_round.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\home_linearlayout_topcorner_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_remove_duplicate_pages.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_remove_duplicate_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_arrow_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_compress_image.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_compress_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_color_pallete_layout.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\color_pallete_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_add_image.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_add_image.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_font_color.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_font_color.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_black.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\black.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_page_number.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_page_number.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_split_files.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_split_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_one.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_one.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_preview_image_options.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_preview_image_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_cornered_edges.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\cornered_edges.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_zip_to_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_zip_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_lomish.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\lomish.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_invert_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_invert_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_font_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_font_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_auto_fix.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\auto_fix.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_sharpen.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_negative.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\negative.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_circle.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\circle.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_documentary.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\documentary.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_image_extracted.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_image_extracted.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-anydpi_ic_filter_list.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-anydpi\\ic_filter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_add_images.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_add_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_activity_view_files_actions.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\activity_view_files_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_activity_view_files_actions_if_selected.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\activity_view_files_actions_if_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_poster.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\poster.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_brightness.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_flip_horizontal.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\flip_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_brightness.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\brightness.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\raw_search_file_light.json.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\raw\\search_file_light.json"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_theme_default.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_theme_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_rearrange.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_rearrange.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\font_sarabunbold.ttf.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\font\\sarabunbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_pdf_preview_item.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\pdf_preview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_three.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_three.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_invert_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_invert_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_due_tone.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\due_tone.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_lomish.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\lomish.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_four.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_four.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_file_create.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_file_create.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_baseline_crop_rotate_24.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\baseline_crop_rotate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_lomish.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\lomish.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_add_pgnum_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\add_pgnum_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_photo_editor.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_photo_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\raw_favourites.json.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\raw\\favourites.json"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_qrcode_to_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_qrcode_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_help_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_help_outline_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_add_watermark_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\add_watermark_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_merge_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_merge_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_file.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_seven.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_seven.png"
+    },
+    {
+        "merged": "pdf.dudepdftools.app-merged_res-33:/layout_fragment_wordto_pdf.xml.flat",
+        "source": "pdf.dudepdftools.app-main-35:/layout/fragment_wordto_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_rearrange_images.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_rearrange_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_contrast.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\contrast.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_version_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_version_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_black.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_due_tone.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\due_tone.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_compress_image_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\compress_image_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_set_password.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_set_password.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_documentary.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\documentary.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_set_page_size_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\set_page_size_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_print.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_print.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_broken_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_broken_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_remove_duplicate.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_remove_duplicate.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_filter_image.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_filter_image.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_remove_password.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_remove_password.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_temp.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_text_format_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_text_format_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_lock_open_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_lock_open_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_documentary.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\documentary.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_merge_type_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_merge_type_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_create_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_none.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_negative.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\negative.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_home_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_home_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_change_master_pwd.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_change_master_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_eight.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_eight.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_image_compression.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_image_compression.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_rotate.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\rotate.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_arrow_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_menu_favourite_pref_done.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\menu_favourite_pref_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_qr_barcode.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_qr_barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_bg_recent_card.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\bg_recent_card.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_font_size.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_font_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_page_preview.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_page_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_remove_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_remove_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_view_file.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_view_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_color_palette.jpg.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\color_palette.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_extract_images.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_extract_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_text_size.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_text_size.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_favorite.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\raw_search_file_dark.json.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\raw\\search_file_dark.json"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_cross_process.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\cross_process.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_folder_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_folder_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_five.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_five.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_excel_to_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_excel_to_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_circle.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_grain.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\grain.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_merge_files.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_merge_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_navigate_next_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_navigate_next_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_sepia.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_flip_vertical.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\flip_vertical.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_playstore.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_playstore.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_favourites_fragment.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\favourites_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_view_files.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_view_files.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_flip_horizontal.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\flip_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_rearrange_images.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_rearrange_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_add_text.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_add_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_reorder_pages.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_reorder_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_navigate_before_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_navigate_before_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_crop_image_activity.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_crop_image_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_temp.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\temp.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_image_scale_type_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\image_scale_type_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_arrow_downward_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_arrow_downward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_auto_fix.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\auto_fix.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_zip_to_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_zip_to_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_merge_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_merge_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_rearrange_page.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_rearrange_page.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_activity_crop_image.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\activity_crop_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_contrast.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_fill_light.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\fill_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_settings_20px.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_settings_20px.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\menu_menu_history_fragment.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\menu\\menu_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_arrow_upward_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_arrow_upward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_sharpen.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_word.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\word.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_extract_text.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_extract_text.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_branding_watermark_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_branding_watermark_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_image_to_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_image_to_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_remove_duplicate_square_black.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_remove_duplicate_square_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_extract_text.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_extract_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_pdf_to_image.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_pdf_to_image.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_vignette.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\xml_favourites_preferences.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\xml\\favourites_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_home_.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_home_.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_split_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_split_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_font_family.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_font_family.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_text_to_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_text_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_poster.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\poster.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_six.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_six.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\font_sarabunregular.ttf.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\font\\sarabunregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_qrcode_barcode.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_qrcode_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_view_enhancement_option.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_view_enhancement_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_sort_white_24px.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_sort_white_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_protect.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_protect.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_none.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_rename.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_rename.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_invert_color_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_invert_color_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_saturate.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\saturate.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fav_pref_screen.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fav_pref_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_add_password.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_add_password.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_flip_vertical.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\flip_vertical.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_faq.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_about_us_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_about_us_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_rate_us_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_rate_us_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_page_margin.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_page_margin.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_list_item_filter.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\list_item_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_remove_pages.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_remove_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_view_files.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_view_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_brush.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\brush.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_add_watermark.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_add_watermark.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_lottie_anim_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\lottie_anim_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\raw_image_icon_tadah.json.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\raw\\image_icon_tadah.json"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_color_chooser.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_color_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_question_answer_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_question_answer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_faq.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_about_us.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_add_text.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_add_text.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_view_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\view_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_check_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_auto_fix.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\auto_fix.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_text_to_pdf.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_text_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_flip_horizontal.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\flip_horizontal.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_compress_pdf.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_compress_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_saturate.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\saturate.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_circle_white.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_merge_type_white_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_merge_type_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_screenshot_two.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\screenshot_two.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_rotate.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_negative.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\negative.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_activity_preview_images.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\activity_preview_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_brightness.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_layout_item_history.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\layout_item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_cross_process.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\cross_process.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_add_margins_dialog.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\add_margins_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_page_border_width.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_page_border_width.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_history_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_history_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_excel.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_excel.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_dialog_font_family.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\dialog_font_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_poster.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\poster.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_history.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_history.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_contrast.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_ic_photo_filter_black_24dp.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\ic_photo_filter_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_vignette.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\vignette.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_circle.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_flip_vertical.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\flip_vertical.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_sharpen.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\sharpen.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable_files_divider.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable\\files_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxhdpi_due_tone.webp.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxhdpi\\due_tone.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_item_merge_selected_files.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\item_merge_selected_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_grain.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\grain.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\layout_fragment_step_reorder_pages.xml.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\layout\\fragment_step_reorder_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-hdpi_sepia.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-hdpi\\sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-merged_res-33:\\drawable-xxxhdpi_rotate.png.flat",
+        "source": "C:\\Users\\yasht\\.gradle\\daemon\\7.5\\pdf.dudepdftools.app-main-35:\\drawable-xxxhdpi\\rotate.png"
+    }
+]

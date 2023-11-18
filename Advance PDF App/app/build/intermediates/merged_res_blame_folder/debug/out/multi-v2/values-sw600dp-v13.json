@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "pdf.dudepdftools.app-mergeDebugResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\c6bfbccd12ff7aac576cdc396f80b96b\\transformed\\jetified-core-0.9.6.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1173",
+                        "endColumns": "51",
+                        "endOffsets": "1220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\29c6ce099d0145ee97872e4c5ddff3eb\\transformed\\appcompat-1.2.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\9d79143fc6692178ec186e050dbe94cd\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,18,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1109,1225,1288",
+                        "endLines": "10,11,12,13,14,15,17,18,20,24",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "666,736,807,879,937,995,1104,1168,1283,1455"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\1b66c21326978c7acd56d9069097602d\\transformed\\jetified-color-picker-view-1.4.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "193",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "1460",
+                        "endLines": "28",
+                        "endColumns": "12",
+                        "endOffsets": "1643"
+                    }
+                }
+            ]
+        }
+    ]
+}

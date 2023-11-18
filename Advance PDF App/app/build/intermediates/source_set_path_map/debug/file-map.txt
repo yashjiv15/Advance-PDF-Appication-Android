@@ -1,0 +1,35 @@
+pdf.dudepdftools.app-jetified-glide-4.9.0-0 C:\Users\yasht\.gradle\caches\transforms-3\098712ccbe03b5f94d4c6a4fc66b8c4b\transformed\jetified-glide-4.9.0\res
+pdf.dudepdftools.app-coordinatorlayout-1.0.0-1 C:\Users\yasht\.gradle\caches\transforms-3\0d671dac3634e1ba8d35a9fe0e7e7dcf\transformed\coordinatorlayout-1.0.0\res
+pdf.dudepdftools.app-jetified-play-services-basement-18.2.0-2 C:\Users\yasht\.gradle\caches\transforms-3\15f14961771e1f62b095b13a0860a632\transformed\jetified-play-services-basement-18.2.0\res
+pdf.dudepdftools.app-jetified-color-picker-view-1.4.0-3 C:\Users\yasht\.gradle\caches\transforms-3\1b66c21326978c7acd56d9069097602d\transformed\jetified-color-picker-view-1.4.0\res
+pdf.dudepdftools.app-jetified-appcompat-resources-1.2.0-4 C:\Users\yasht\.gradle\caches\transforms-3\255569eef32f9e56d223ab353e6363a1\transformed\jetified-appcompat-resources-1.2.0\res
+pdf.dudepdftools.app-jetified-photoeditor-0.2.1-5 C:\Users\yasht\.gradle\caches\transforms-3\25b7646947842cf6aec9ec2db050ad0b\transformed\jetified-photoeditor-0.2.1\res
+pdf.dudepdftools.app-appcompat-1.2.0-6 C:\Users\yasht\.gradle\caches\transforms-3\29c6ce099d0145ee97872e4c5ddff3eb\transformed\appcompat-1.2.0\res
+pdf.dudepdftools.app-constraintlayout-1.1.3-7 C:\Users\yasht\.gradle\caches\transforms-3\36f98c80447e00b2c821de40862ef388\transformed\constraintlayout-1.1.3\res
+pdf.dudepdftools.app-recyclerview-1.0.0-8 C:\Users\yasht\.gradle\caches\transforms-3\3a09e1c967dec81e9025acb0a88759f2\transformed\recyclerview-1.0.0\res
+pdf.dudepdftools.app-work-runtime-2.7.0-9 C:\Users\yasht\.gradle\caches\transforms-3\43dc7faeed6f8a8369b8f434bb74398d\transformed\work-runtime-2.7.0\res
+pdf.dudepdftools.app-jetified-android-morphing-button-98a4986e56-10 C:\Users\yasht\.gradle\caches\transforms-3\46ed84822a267a8295d965d88561511b\transformed\jetified-android-morphing-button-98a4986e56\res
+pdf.dudepdftools.app-jetified-annotation-experimental-1.1.0-11 C:\Users\yasht\.gradle\caches\transforms-3\4b4e78c78985c9239c2e2f542d3106c6\transformed\jetified-annotation-experimental-1.1.0\res
+pdf.dudepdftools.app-preference-1.0.0-12 C:\Users\yasht\.gradle\caches\transforms-3\65cb074ecc163fe1814bd32175623a77\transformed\preference-1.0.0\res
+pdf.dudepdftools.app-jetified-play-services-ads-lite-22.5.0-13 C:\Users\yasht\.gradle\caches\transforms-3\66197e1d8ed789d21a7996e3e75efdce\transformed\jetified-play-services-ads-lite-22.5.0\res
+pdf.dudepdftools.app-jetified-folderpicker-2.4-14 C:\Users\yasht\.gradle\caches\transforms-3\70740ddc37022c480991ef6135d6b833\transformed\jetified-folderpicker-2.4\res
+pdf.dudepdftools.app-media-1.0.0-15 C:\Users\yasht\.gradle\caches\transforms-3\77475632cde24ff98feeec6cc36ad3bf\transformed\media-1.0.0\res
+pdf.dudepdftools.app-jetified-material-ripple-1.0.2-16 C:\Users\yasht\.gradle\caches\transforms-3\851ffca160c3f23e27c285a54d116b19\transformed\jetified-material-ripple-1.0.2\res
+pdf.dudepdftools.app-jetified-matisse-0.5.3-beta3-17 C:\Users\yasht\.gradle\caches\transforms-3\91b9d77b4f72041123381c14da4b66e7\transformed\jetified-matisse-0.5.3-beta3\res
+pdf.dudepdftools.app-material-1.0.0-18 C:\Users\yasht\.gradle\caches\transforms-3\9d79143fc6692178ec186e050dbe94cd\transformed\material-1.0.0\res
+pdf.dudepdftools.app-jetified-android-image-cropper-2.7.0-19 C:\Users\yasht\.gradle\caches\transforms-3\b1fc030210567d0e1d105f634e657c0d\transformed\jetified-android-image-cropper-2.7.0\res
+pdf.dudepdftools.app-jetified-lottie-2.5.5-20 C:\Users\yasht\.gradle\caches\transforms-3\b728fb07b8c71071d3dccfe10817c088\transformed\jetified-lottie-2.5.5\res
+pdf.dudepdftools.app-jetified-zxing-android-embedded-3.4.0-21 C:\Users\yasht\.gradle\caches\transforms-3\c65e56c09d49819ae47c22763df9913a\transformed\jetified-zxing-android-embedded-3.4.0\res
+pdf.dudepdftools.app-jetified-core-0.9.6.0-22 C:\Users\yasht\.gradle\caches\transforms-3\c6bfbccd12ff7aac576cdc396f80b96b\transformed\jetified-core-0.9.6.0\res
+pdf.dudepdftools.app-transition-1.0.0-23 C:\Users\yasht\.gradle\caches\transforms-3\ce61851f4a8de6eb44c0f323c30167ff\transformed\transition-1.0.0\res
+pdf.dudepdftools.app-cardview-1.0.0-24 C:\Users\yasht\.gradle\caches\transforms-3\cf26ca127ba5a6996c6a7330e3038b7c\transformed\cardview-1.0.0\res
+pdf.dudepdftools.app-jetified-startup-runtime-1.0.0-25 C:\Users\yasht\.gradle\caches\transforms-3\db2dd093b16019b46a53ceb77bfec9be\transformed\jetified-startup-runtime-1.0.0\res
+pdf.dudepdftools.app-jetified-library-1.4.2-26 C:\Users\yasht\.gradle\caches\transforms-3\e2edeb00195f9058deda92b8856aa293\transformed\jetified-library-1.4.2\res
+pdf.dudepdftools.app-core-1.6.0-27 C:\Users\yasht\.gradle\caches\transforms-3\e7957d336cd07858f5785d23e95a2ba6\transformed\core-1.6.0\res
+pdf.dudepdftools.app-resValues-28 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\build\generated\res\resValues\debug
+pdf.dudepdftools.app-rs-29 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\build\generated\res\rs\debug
+pdf.dudepdftools.app-mergeDebugResources-30 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+pdf.dudepdftools.app-mergeDebugResources-31 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+pdf.dudepdftools.app-merged_res-32 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\build\intermediates\merged_res\debug
+pdf.dudepdftools.app-debug-33 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\src\debug\res
+pdf.dudepdftools.app-main-34 C:\Users\yasht\Desktop\pdf\Advance PDF App\app\src\main\res

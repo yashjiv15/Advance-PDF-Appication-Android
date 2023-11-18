@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "pdf.dudepdftools.app-mergeDebugResources-31:/values-sw400dp-v13/values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\1b66c21326978c7acd56d9069097602d\\transformed\\jetified-color-picker-view-1.4.0\\res\\values-sw400dp\\values-sw400dp.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,262,469",
+                        "endLines": "4,5,11",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "257,326,652"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endLines": "2,3,7",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "120,189,377"
+                    }
+                }
+            ]
+        }
+    ]
+}
